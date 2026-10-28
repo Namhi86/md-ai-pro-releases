@@ -1,0 +1,10 @@
+{
+  "version": "1.1.1",
+  "appName": "MD AI PRO",
+  "displayVersion": "MD AI PRO V1.1.1",
+  "publishedAt": "2026-10-28T11:26:22.785Z",
+  "releaseNotes": "Phiên bản chính thức MD AI PRO V1.1.1: Tích hợp Cập nhật tự động từ GitHub (OTA Auto-Update), Bảo mật khóa máy từ xa thời gian thực (Realtime Remote Lock), Báo cáo Telegram tự động & Đa luồng ẩn 100%.",
+  "customerPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/customer_patch.json",
+  "adminPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/admin_patch.json",
+  "downloadUrl": "https://github.com/Namhi86/md-ai-pro-releases/releases/latest"
+}
