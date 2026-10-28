@@ -1,0 +1,10 @@
+{
+  "version": "1.2.1",
+  "appName": "MD AI PRO",
+  "displayVersion": "MD AI PRO V1.2.1",
+  "publishedAt": "2026-10-28T13:08:01.980Z",
+  "releaseNotes": "Phiên bản chính thức MD AI PRO V1.2.1: Tích hợp Kho & Xoay Proxy tự động 4 chế độ, Khóa Nhân Vật & Bối Cảnh theo Prompt trong Từ Link SP, Trạm Làm Phim AI đa nhân vật & 6 Khóa Mục Tiêu Điện Ảnh (Target Locks), cùng Cập nhật tự động từ GitHub (OTA Auto-Update).",
+  "customerPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/customer_patch.json",
+  "adminPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/admin_patch.json",
+  "downloadUrl": "https://github.com/Namhi86/md-ai-pro-releases/releases/latest"
+}
