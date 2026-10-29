@@ -1,0 +1,10 @@
+{
+  "version": "2.2.3",
+  "appName": "MD AI PRO",
+  "displayVersion": "MD AI PRO V2.2.3",
+  "publishedAt": "2026-10-29T17:00:55.365Z",
+  "releaseNotes": "Phiên bản chính thức MD AI PRO V2.2.3: Tích hợp Trung Tâm Bộ Não AI Toàn Hệ Thống (4 tầng trí nhớ chống quên Sản Phẩm & Nhân Vật), Kho 36 Skill Video Bán Hàng HD, Két Lưu Phiên Muse chống bị đăng xuất, cùng chế độ Tự Động Dùng Thử Miễn Phí 5 Ngày cho người dùng mới (tự khóa sau 5 ngày).",
+  "customerPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/customer_patch.json",
+  "adminPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/admin_patch.json",
+  "downloadUrl": "https://github.com/Namhi86/md-ai-pro-releases/releases/latest"
+}
