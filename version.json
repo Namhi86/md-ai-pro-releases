@@ -1,0 +1,10 @@
+{
+  "version": "2.8.5",
+  "appName": "MD AI PRO",
+  "displayVersion": "MD AI PRO V2.8.5",
+  "publishedAt": "2026-10-31T14:44:28.958Z",
+  "releaseNotes": "Phiên bản chính thức MD AI PRO V2.8.5: Ra mắt mục riêng \"Tạo Video ∞ Luồng\" (Bảng sản xuất Video hàng loạt Muse.ai — 1 Sản phẩm = 1 Luồng, tự động tách & ghép nối mượt cho video >10s, bắn đồng loạt không giới hạn số luồng), kèm Thanh hiển thị Thông tin phần cứng máy & Số luồng khuyến nghị trực tiếp ở góc dưới bên phải.",
+  "customerPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/customer_patch.json",
+  "adminPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/admin_patch.json",
+  "downloadUrl": "https://github.com/Namhi86/md-ai-pro-releases/releases/latest"
+}
