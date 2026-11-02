@@ -1,0 +1,10 @@
+{
+  "version": "2.8.6",
+  "appName": "MD AI PRO",
+  "displayVersion": "MD AI PRO V2.8.6",
+  "publishedAt": "2026-11-02T09:44:30.341Z",
+  "releaseNotes": "Phiên bản chính thức MD AI PRO V2.8.6: Nâng cấp Bộ Quét Đa Ảnh từ Link Sản Phẩm (lấy tối đa 40 ảnh/link, gửi tối đa 6 ảnh mẫu/video), khóa nhận diện vật thể 3D chuẩn mẫu gốc (bỏ qua chữ quảng cáo trên ảnh bìa shop), tích hợp 24+ Giọng Đọc AI Đa Nguồn (Edge Neural, Viettel AI, FPT.AI, ElevenLabs, OpenAI) và đồng bộ giao diện Xanh Lá Non hiện đại.",
+  "customerPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/customer_patch.json",
+  "adminPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/admin_patch.json",
+  "downloadUrl": "https://github.com/Namhi86/md-ai-pro-releases/releases/latest"
+}
