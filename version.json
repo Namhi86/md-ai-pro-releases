@@ -1,0 +1,10 @@
+{
+  "version": "2.8.7",
+  "appName": "MD AI PRO",
+  "displayVersion": "MD AI PRO V2.8.7",
+  "publishedAt": "2026-11-02T17:10:21.192Z",
+  "releaseNotes": "Phiên bản chính thức MD AI PRO V2.8.7: Tối ưu toàn diện Video từ Link Sản Phẩm (1 Kịch Bản & 1 Master Prompt duy nhất theo thời lượng 10s/20s/30s, đóng/mở danh sách kịch bản gọn gàng), nâng cấp Tạo Video Hàng Loạt (1 dòng = 1 prompt luồng), bổ sung chọn tất cả & chọn từng dòng trong Tiến Trình, làm mới giao diện Sáng Xanh-Trắng-Hồng Cam tương phản cao dễ nhìn và sửa lỗi hiển thị trong mục Hoạt Hình.",
+  "customerPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/customer_patch.json",
+  "adminPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/admin_patch.json",
+  "downloadUrl": "https://github.com/Namhi86/md-ai-pro-releases/releases/latest"
+}
