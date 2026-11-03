@@ -1,0 +1,10 @@
+{
+  "version": "2.8.9",
+  "appName": "MD AI PRO",
+  "displayVersion": "MD AI PRO V2.8.9",
+  "publishedAt": "2026-11-03T14:45:35.318Z",
+  "releaseNotes": "Phiên bản chính thức MD AI PRO V2.8.9: Nâng cấp toàn diện cào dữ liệu Shopee & TikTok Shop (lấy đầy đủ tên gốc, thông tin Shop, mã SP, bảng giá, đánh giá, phân loại SKU, thông số kỹ thuật, mô tả chi tiết & tới 60 ảnh gốc độ phân giải cao + nút tải trọn bộ ảnh/thông tin 1-click), bổ sung chế độ Khóa Kịch Bản & Master Prompt cố định, chống cười thừa cuối câu và tối ưu giọng đọc TTS tiếng Việt liền mạch.",
+  "customerPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/customer_patch.json",
+  "adminPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/admin_patch.json",
+  "downloadUrl": "https://github.com/Namhi86/md-ai-pro-releases/releases/latest"
+}
