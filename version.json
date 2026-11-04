@@ -1,0 +1,10 @@
+{
+  "version": "2.9.1",
+  "appName": "MD AI PRO",
+  "displayVersion": "MD AI PRO V2.9.1",
+  "publishedAt": "2026-11-04T10:13:04.530Z",
+  "releaseNotes": "Phiên bản chính thức MD AI PRO V2.9.1: Điều chỉnh thời gian dùng thử miễn phí cho khách mới xuống 2 ngày (tự động khóa sau 2 ngày), tối ưu tốc độ tạo video nhanh gấp 2.5–3.5 lần (render song song đa luồng, giảm độ trễ xuống 0.4–1.2s, QC song song & xuất FFmpeg ultrafast), và lấy trọn bộ thông tin + tối đa 60 ảnh gốc từ link Shopee / TikTok Shop.",
+  "customerPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/customer_patch.json",
+  "adminPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/admin_patch.json",
+  "downloadUrl": "https://github.com/Namhi86/md-ai-pro-releases/releases/latest"
+}
