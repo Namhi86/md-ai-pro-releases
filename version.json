@@ -1,0 +1,10 @@
+{
+  "version": "3.0.0",
+  "appName": "MD AI PRO",
+  "displayVersion": "MD AI PRO V3.0.0",
+  "publishedAt": "2026-11-05T12:13:42.481Z",
+  "releaseNotes": "Phiên bản chính thức MD AI PRO V3.0.0: Khóa kích hoạt Key bản quyền bắt buộc ngay khi mở phần mềm (bỏ dùng thử miễn phí), tích hợp phân khu Kiếm Tiền Ngoại (US View Monetization 6 xưởng), tối ưu tốc độ tạo & ghép video đa luồng nhanh gấp 2.5–3.5 lần, lấy trọn bộ thông tin & 60 ảnh gốc Shopee / TikTok Shop.",
+  "customerPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/customer_patch.json",
+  "adminPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/admin_patch.json",
+  "downloadUrl": "https://github.com/Namhi86/md-ai-pro-releases/releases/latest"
+}
