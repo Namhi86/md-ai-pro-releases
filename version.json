@@ -1,0 +1,10 @@
+{
+  "version": "3.0.1",
+  "appName": "MD AI PRO",
+  "displayVersion": "MD AI PRO V3.0.1",
+  "edition": "customer",
+  "publishedAt": "2026-11-06T08:08:30.815Z",
+  "releaseNotes": "Phiên bản MD AI PRO V3.0.1: Tích hợp hệ thống bản quyền tập trung MD License Center (Ed25519 V2 MDPRO2. + Cloudflare Worker Heartbeat + Offline Lease 7 ngày) và chế độ video mặc định presenter_plus_real.",
+  "customerPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/customer_patch.json",
+  "downloadUrl": "https://github.com/Namhi86/md-ai-pro-releases/releases/latest"
+}
