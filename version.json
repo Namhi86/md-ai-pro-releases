@@ -1,0 +1,10 @@
+{
+  "version": "3.0.2",
+  "appName": "MD AI PRO",
+  "displayVersion": "MD AI PRO V3.0.2",
+  "edition": "customer",
+  "publishedAt": "2026-11-07T08:36:26.173Z",
+  "releaseNotes": "Phiên bản MD AI PRO V3.0.2: Khóa nhận diện sản phẩm (Product Consistency Lock & Clean Cuts), sửa dứt điểm lỗi ghép video 30s ở 85%, nâng số luồng render song song lên 6 luồng/nick (hỗ trợ Unlimited Threads) và tối ưu chống nghẽn tiến trình.",
+  "customerPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-ai-pro-releases/main/customer_patch.json",
+  "downloadUrl": "https://github.com/Namhi86/md-ai-pro-releases/releases/latest"
+}
